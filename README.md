@@ -1,4 +1,4 @@
-# coding-project-template"# React" 
+# Commands to execute..."# React" 
 
 To run this Project 
 run following commands 
